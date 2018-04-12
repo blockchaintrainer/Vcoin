@@ -1,0 +1,9 @@
+Building Vcoin
+
+See doc/readme-qt.rst for instructions on building Vcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Vcoin.
+
+See doc/build-*.txt for instructions on building vcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Vcoin.
